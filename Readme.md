@@ -659,5 +659,9 @@ Monitor en paralelo, ciclo completo FCM → RM → KUM → LCM):
 
 ## Autores
 
-- Joaquín Morán
-- *(agregar al resto del equipo G01T)*
+| Nombre | Carnet |
+|---|---|
+| Joaquín Morán | MM230272 |
+| Rodrigo Mejía | MR230247 |
+| André Preza | PD230540 |
+| Bryan Fuente | FM230331 |
