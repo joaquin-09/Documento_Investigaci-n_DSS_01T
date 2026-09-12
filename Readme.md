@@ -655,7 +655,7 @@ Proyectos de Wokwi (uno por nodo):
 Video demostrativo de la simulación funcionando (ambos nodos, Serial
 Monitor en paralelo, ciclo completo FCM → RM → KUM → LCM):
 
-**https://youtu.be/sImWh06x6uE**
+**https://youtu.be/E48aABvI0wM**
 
 ## Autores
 
